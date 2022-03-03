@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rabbit.Produtor": {
+      "commandName": "Project",
+      "commandLineArgs": "25"
+    }
+  }
+}

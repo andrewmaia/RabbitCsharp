@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rabbit.Consumidor": {
+      "commandName": "Project",
+      "commandLineArgs": "15000 false"
+    }
+  }
+}
